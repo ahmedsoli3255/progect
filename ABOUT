@@ -1,0 +1,23 @@
+-my accomplish 
+    my project is button to On/Off led and calculate the temperature Calculate the temperature every 3 minutes at the same time.
+
+-Thinking
+    1. Connect Components (Led, Buttons, Temperature Sensitive) With Arduino.
+    2. Thinking In a Timing Way Instead Of Delay Because The Delay Works To Freeze The Microcontroller.
+    3. Write The Code.
+
+My Experience Is Good .
+
+Learning & project:-
+   - Arduino.
+       -1 Project :- Line Follower Robot . 
+       -2 Project :- Ultrasonic Robot .
+       -3 Project :- Bluetooth Car .
+      - Proteus.
+   - Embedded System Interface Using Pic.
+       -1 Project :- Traffic signal system using Proteus.
+
+competition:-
+Robot Competition In The University Of Ain Shams(Get Third Postion).
+Robot Competition In The University Of Canadian University.
+Robot Competition In The University Of Benha University.
